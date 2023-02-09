@@ -1,0 +1,49 @@
+{
+  "contentrating": "Everyone",
+  "description": "Animated ground",
+  "file": "index.html",
+  "general": {
+    "properties": {
+      "hue": {
+        "fraction": false,
+        "max": 360,
+        "min": 0,
+        "order": 100,
+        "text": "Hue",
+        "type": "slider",
+        "value": 211
+      },
+      "saturation": {
+        "fraction": false,
+        "max": 100,
+        "min": 0,
+        "order": 200,
+        "text": "Saturation",
+        "type": "slider",
+        "value": 100
+      },
+      "lightness": {
+        "fraction": false,
+        "max": 100,
+        "min": 0,
+        "order": 300,
+        "text": "Lightness",
+        "type": "slider",
+        "value": 50
+      },
+
+      "schemecolor": {
+        "order": 0,
+        "text": "ui_browse_properties_scheme_color",
+        "type": "color",
+        "value": "0.08627450980392157 0.4117647058823529 0.8313725490196079"
+      }
+    }
+  },
+  "preview": "preview.gif",
+  "tags": ["Abstract"],
+  "title": "Animated Ribbons",
+  "type": "web",
+  "visibility": "public",
+  "workshopid": "1637188768"
+}
